@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>CRM Comercial — Descargar app</title>
+<style>
+  :root { --p:#1a73e8; --pd:#1557b0; --t:#0f172a; --s:#64748b; --bg:#f1f5f9; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif; background:var(--bg); color:var(--t); }
+  .wrap { max-width:520px; margin:0 auto; padding:28px 20px 60px; }
+  .card { background:#fff; border-radius:20px; padding:26px 22px; box-shadow:0 10px 30px rgba(2,32,71,.10); text-align:center; }
+  .logo { width:76px; height:76px; border-radius:20px; background:linear-gradient(135deg,var(--p),var(--pd)); margin:0 auto 14px; display:flex; align-items:center; justify-content:center; font-size:38px; }
+  h1 { font-size:22px; margin:0 0 2px; }
+  .sub { color:var(--s); font-size:14px; margin-bottom:18px; }
+  .ver { font-weight:800; font-size:15px; margin-bottom:6px; }
+  .notes { color:var(--s); font-size:13.5px; white-space:pre-line; margin-bottom:18px; }
+  .btn { display:block; background:var(--p); color:#fff; text-decoration:none; font-weight:800; font-size:17px; padding:16px; border-radius:14px; margin:8px 0; }
+  .btn:active { background:var(--pd); }
+  .btn.disabled { opacity:.5; pointer-events:none; }
+  .rehint { color:var(--s); font-size:12.5px; margin-top:10px; }
+  .steps { text-align:left; background:#f8fafc; border:1px solid #e2e8f0; border-radius:14px; padding:16px 16px 16px 34px; margin-top:22px; }
+  .steps h2 { font-size:14px; margin:0 0 10px -16px; }
+  .steps li { font-size:13.5px; color:#334155; margin-bottom:8px; line-height:1.45; }
+  .foot { text-align:center; color:var(--s); font-size:12px; margin-top:22px; }
+</style></head>
+<body><div class="wrap">
+  <div class="card">
+    <div class="logo">📊</div>
+    <h1>CRM Comercial</h1>
+    <div class="sub">App para el equipo comercial · Android</div>
+    <div class="ver" id="ver">Cargando versión…</div>
+    <div class="notes" id="notes"></div>
+    <a class="btn disabled" id="dl" href="#">⬇  Descargar e instalar</a>
+    <div class="rehint">¿Ya la tienes? Vuelve a descargar para actualizar a la última versión.</div>
+  </div>
+
+  <div class="steps">
+    <h2>Cómo instalar</h2>
+    <ol>
+      <li>Toca <b>Descargar e instalar</b>.</li>
+      <li>Si Android pide permiso, activa <b>“Permitir de esta fuente”</b> para el navegador y vuelve.</li>
+      <li>Abre el archivo descargado y toca <b>Instalar</b>.</li>
+      <li>Para <b>actualizar</b> más adelante, vuelve a esta página y descarga de nuevo — se instala encima sin perder tus datos.</li>
+    </ol>
+  </div>
+
+  <div class="foot">Diseños Exclusivos S.A.S.</div>
+</div>
+<script>
+  (function () {
+    var mb = function (b) { return (b / (1024 * 1024)).toFixed(1) + ' MB'; };
+    fetch('manifest.json?t=' + Date.now()).then(function (r) { return r.json(); }).then(function (m) {
+      var file = m.fileName || 'app-release.apk';
+      document.getElementById('ver').textContent =
+        'Versión ' + m.version + (m.sizeBytes ? ' · ' + mb(m.sizeBytes) : '') + (m.publishedAt ? ' · ' + m.publishedAt : '');
+      document.getElementById('notes').textContent = m.notes || '';
+      var dl = document.getElementById('dl');
+      dl.href = file;
+      dl.setAttribute('download', file);
+      dl.classList.remove('disabled');
+    }).catch(function () {
+      document.getElementById('ver').textContent = 'No se pudo cargar la versión.';
+    });
+  })();
+</script>
+</body></html>
