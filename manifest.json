@@ -1,8 +1,8 @@
 {
-  "version": "0.1.2",
-  "versionCode": 2,
-  "fileName": "CRM-0.1.2.apk",
-  "notes": "App de campo lista para producción. Requiere servidor CRM actualizado.",
-  "publishedAt": "2026-07-07",
-  "sizeBytes": 66377838
+  "version": "0.1.3",
+  "versionCode": 3,
+  "fileName": "CRM-0.1.3.apk",
+  "notes": "Pedidos pendientes y facturación corregidos: cantidades por unidad de medida y totales que cuadran con SIESA.",
+  "publishedAt": "2026-07-14",
+  "sizeBytes": 66377974
 }
