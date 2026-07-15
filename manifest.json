@@ -1,8 +1,8 @@
 {
-  "version": "0.1.4",
-  "versionCode": 4,
-  "fileName": "CRM-0.1.4.apk",
-  "notes": "Búsqueda de ítems: ahora encuentra referencias con o sin tildes y los resultados se abren en pantalla completa (scroll fluido, sin cierres accidentales).",
+  "version": "0.1.5",
+  "versionCode": 5,
+  "fileName": "CRM-0.1.5.apk",
+  "notes": "Al seleccionar cliente ahora se ve el nombre del cliente bajo la sucursal. Fechas con formato legible en clientes inactivos y desliza para recargar el inicio.",
   "publishedAt": "2026-07-15",
-  "sizeBytes": 66379178
+  "sizeBytes": 66380314
 }
