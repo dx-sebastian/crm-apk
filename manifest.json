@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6",
-  "versionCode": 6,
-  "fileName": "CRM-0.1.6.apk",
-  "notes": "Marcar acciones como hechas ahora es instantáneo. Tus eventos de Google Calendar aparecen en Acciones (con opción de conectar Google desde la app). Menos inicios de sesión.",
+  "version": "0.1.7",
+  "versionCode": 7,
+  "fileName": "CRM-0.1.7.apk",
+  "notes": "Los eventos que ya están en el CRM no se duplican (marca 'En CRM y en Google') y se quita KANBAN del nombre. Nuevo botón Agendar para crear acciones desde el calendario eligiendo cliente y proyecto.",
   "publishedAt": "2026-07-15",
-  "sizeBytes": 66385138
+  "sizeBytes": 66388742
 }
