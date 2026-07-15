@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5",
-  "versionCode": 5,
-  "fileName": "CRM-0.1.5.apk",
-  "notes": "Al seleccionar cliente ahora se ve el nombre del cliente bajo la sucursal. Fechas con formato legible en clientes inactivos y desliza para recargar el inicio.",
+  "version": "0.1.6",
+  "versionCode": 6,
+  "fileName": "CRM-0.1.6.apk",
+  "notes": "Marcar acciones como hechas ahora es instantáneo. Tus eventos de Google Calendar aparecen en Acciones (con opción de conectar Google desde la app). Menos inicios de sesión.",
   "publishedAt": "2026-07-15",
-  "sizeBytes": 66380314
+  "sizeBytes": 66385138
 }
