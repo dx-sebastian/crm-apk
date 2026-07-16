@@ -1,8 +1,8 @@
 {
-  "version": "0.1.7",
-  "versionCode": 7,
-  "fileName": "CRM-0.1.7.apk",
-  "notes": "Los eventos que ya están en el CRM no se duplican (marca 'En CRM y en Google') y se quita KANBAN del nombre. Nuevo botón Agendar para crear acciones desde el calendario eligiendo cliente y proyecto.",
-  "publishedAt": "2026-07-15",
-  "sizeBytes": 66388742
+  "version": "0.1.8",
+  "versionCode": 8,
+  "fileName": "CRM-0.1.8.apk",
+  "notes": "La app se recupera sola al volver el internet (ya no hay que cerrar sesión). En pedidos puedes marcar varias tallas de una vez y se agregan como líneas con el mismo precio.",
+  "publishedAt": "2026-07-16",
+  "sizeBytes": 66400730
 }
