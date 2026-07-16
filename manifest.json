@@ -1,8 +1,8 @@
 {
-  "version": "0.1.12",
-  "versionCode": 12,
-  "fileName": "CRM-0.1.12.apk",
-  "notes": "En Presupuestos, cada cliente ahora tiene el monto (formato 1´000.000) y un campo UND/KG al lado. El nombre del cliente va bajo la sucursal, sin cortarse.",
+  "version": "0.1.13",
+  "versionCode": 13,
+  "fileName": "CRM-0.1.13.apk",
+  "notes": "Ahora al subir un pedido a SIESA puedes enviarlo por correo de una vez (con el PDF). La búsqueda de clientes en Presupuestos es más rápida (paginada). Versión visible abajo a la derecha.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66419430
+  "sizeBytes": 66421370
 }
