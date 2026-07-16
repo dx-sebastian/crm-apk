@@ -1,8 +1,8 @@
 {
-  "version": "0.1.13",
-  "versionCode": 13,
-  "fileName": "CRM-0.1.13.apk",
-  "notes": "Ahora al subir un pedido a SIESA puedes enviarlo por correo de una vez (con el PDF). La búsqueda de clientes en Presupuestos es más rápida (paginada). Versión visible abajo a la derecha.",
+  "version": "0.1.15",
+  "versionCode": 15,
+  "fileName": "CRM-0.1.15.apk",
+  "notes": "KPI con ticket promedio. Pedidos montados con búsqueda (referencia, cliente, fecha, proyecto) y ahora muestra CPT/CPV/CPE + N° en vez de 'Subido a SIESA'. Nueva sección PENDIENTES con resumen y PDF, igual que en el CRM web. El teclado ya no tapa las notas al montar un pedido.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66421370
+  "sizeBytes": 66460262
 }
