@@ -1,8 +1,8 @@
 {
-  "version": "0.1.15",
-  "versionCode": 15,
-  "fileName": "CRM-0.1.15.apk",
-  "notes": "KPI con ticket promedio. Pedidos montados con búsqueda (referencia, cliente, fecha, proyecto) y ahora muestra CPT/CPV/CPE + N° en vez de 'Subido a SIESA'. Nueva sección PENDIENTES con resumen y PDF, igual que en el CRM web. El teclado ya no tapa las notas al montar un pedido.",
+  "version": "0.1.16",
+  "versionCode": 16,
+  "fileName": "CRM-0.1.16.apk",
+  "notes": "El teclado ya no tapa el botón Agregar líneas ni los campos en las hojas de la app. El KPI ahora es de cada comercial (no de toda la empresa) y COMPARTIR genera un PDF con una hoja por unidad de negocio (PC/DT). El PDF de pendientes trae las notas del pedido.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66460262
+  "sizeBytes": 66470026
 }
