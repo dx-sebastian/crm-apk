@@ -1,8 +1,8 @@
 {
-  "version": "0.1.9",
-  "versionCode": 9,
-  "fileName": "CRM-0.1.9.apk",
-  "notes": "Agenda: al agendar una acción que choca con otra, la app avisa (con voz), muestra la ocupación del día y sugiere horarios libres. Pedidos: cantidad independiente por talla/color. Ahora puedes usar la app en varios dispositivos sin que se cierre la sesión.",
+  "version": "0.1.11",
+  "versionCode": 11,
+  "fileName": "CRM-0.1.11.apk",
+  "notes": "Ahora la app crea proyectos preguntando el dinero estimado (formato 1´000.000) y las UND/KG estimadas. Además muestra su número de versión abajo a la derecha para soporte.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66413770
+  "sizeBytes": 66417798
 }
