@@ -1,8 +1,8 @@
 {
-  "version": "0.1.17",
-  "versionCode": 17,
-  "fileName": "CRM-0.1.17.apk",
-  "notes": "El KPI ahora abre con el histórico completo de tus clientes (sin filtro de fecha); tocas el rótulo para verlo por mes. El PDF compartido respeta el modo.",
+  "version": "0.1.18",
+  "versionCode": 18,
+  "fileName": "CRM-0.1.18.apk",
+  "notes": "KPI pulido: nombres largos completos, la sección Otros explica qué unidades agrupa, y las columnas UND y % cumplimiento solo aparecen cuando hay datos.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66470786
+  "sizeBytes": 66471386
 }
