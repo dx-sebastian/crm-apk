@@ -1,8 +1,8 @@
 {
-  "version": "0.1.8",
-  "versionCode": 8,
-  "fileName": "CRM-0.1.8.apk",
-  "notes": "La app se recupera sola al volver el internet (ya no hay que cerrar sesión). En pedidos puedes marcar varias tallas de una vez y se agregan como líneas con el mismo precio.",
+  "version": "0.1.9",
+  "versionCode": 9,
+  "fileName": "CRM-0.1.9.apk",
+  "notes": "Agenda: al agendar una acción que choca con otra, la app avisa (con voz), muestra la ocupación del día y sugiere horarios libres. Pedidos: cantidad independiente por talla/color. Ahora puedes usar la app en varios dispositivos sin que se cierre la sesión.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66400730
+  "sizeBytes": 66413770
 }
