@@ -1,8 +1,8 @@
 {
-  "version": "0.1.16",
-  "versionCode": 16,
-  "fileName": "CRM-0.1.16.apk",
-  "notes": "El teclado ya no tapa el botón Agregar líneas ni los campos en las hojas de la app. El KPI ahora es de cada comercial (no de toda la empresa) y COMPARTIR genera un PDF con una hoja por unidad de negocio (PC/DT). El PDF de pendientes trae las notas del pedido.",
+  "version": "0.1.17",
+  "versionCode": 17,
+  "fileName": "CRM-0.1.17.apk",
+  "notes": "El KPI ahora abre con el histórico completo de tus clientes (sin filtro de fecha); tocas el rótulo para verlo por mes. El PDF compartido respeta el modo.",
   "publishedAt": "2026-07-16",
-  "sizeBytes": 66470026
+  "sizeBytes": 66470786
 }
