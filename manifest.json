@@ -1,8 +1,8 @@
 {
-  "version": "0.1.18",
-  "versionCode": 18,
-  "fileName": "CRM-0.1.18.apk",
-  "notes": "KPI pulido: nombres largos completos, la sección Otros explica qué unidades agrupa, y las columnas UND y % cumplimiento solo aparecen cuando hay datos.",
-  "publishedAt": "2026-07-16",
-  "sizeBytes": 66471386
+  "version": "0.1.19",
+  "versionCode": 19,
+  "fileName": "CRM-0.1.19.apk",
+  "notes": "v0.1.19: no perder el borrador de pedido, buscar/paginar extensiones y crear proyecto desde el pedido",
+  "publishedAt": "2026-07-23",
+  "sizeBytes": 66480718
 }
