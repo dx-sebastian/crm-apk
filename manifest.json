@@ -1,8 +1,8 @@
 {
-  "version": "0.1.23",
-  "versionCode": 23,
-  "fileName": "CRM-0.1.23.apk",
-  "notes": "El selector del inicio muestra toda la cartera, no solo los que tienen proyecto abierto",
+  "version": "0.1.24",
+  "versionCode": 24,
+  "fileName": "CRM-0.1.24.apk",
+  "notes": "Selector: proyecto activo o creado en el ultimo mes. Prospecto = potencial no creado en SIESA",
   "publishedAt": "2026-08-03",
-  "sizeBytes": 66487938
+  "sizeBytes": 66488566
 }
