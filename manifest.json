@@ -1,8 +1,8 @@
 {
-  "version": "0.1.22",
-  "versionCode": 22,
-  "fileName": "CRM-0.1.22.apk",
-  "notes": "Analisis como menu de botones, Prospectos en pantalla propia y bandera de actualizacion",
+  "version": "0.1.23",
+  "versionCode": 23,
+  "fileName": "CRM-0.1.23.apk",
+  "notes": "El selector del inicio muestra toda la cartera, no solo los que tienen proyecto abierto",
   "publishedAt": "2026-08-03",
-  "sizeBytes": 66487618
+  "sizeBytes": 66487938
 }
