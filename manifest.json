@@ -1,8 +1,8 @@
 {
-  "version": "0.1.20",
-  "versionCode": 20,
-  "fileName": "CRM-0.1.20.apk",
-  "notes": "Fix client segment and activate prospects",
-  "publishedAt": "2026-07-31",
-  "sizeBytes": 66482314
+  "version": "0.1.21",
+  "versionCode": 21,
+  "fileName": "CRM-0.1.21.apk",
+  "notes": "Prospectos en el selector del inicio y apartado Prospectos en Analisis",
+  "publishedAt": "2026-08-03",
+  "sizeBytes": 66484602
 }
