@@ -1,8 +1,8 @@
 {
-  "version": "0.1.21",
-  "versionCode": 21,
-  "fileName": "CRM-0.1.21.apk",
-  "notes": "Prospectos en el selector del inicio y apartado Prospectos en Analisis",
+  "version": "0.1.22",
+  "versionCode": 22,
+  "fileName": "CRM-0.1.22.apk",
+  "notes": "Analisis como menu de botones, Prospectos en pantalla propia y bandera de actualizacion",
   "publishedAt": "2026-08-03",
-  "sizeBytes": 66484602
+  "sizeBytes": 66487618
 }
