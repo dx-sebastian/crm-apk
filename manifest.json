@@ -1,8 +1,8 @@
 {
-  "version": "0.1.25",
-  "versionCode": 25,
-  "fileName": "CRM-0.1.25.apk",
-  "notes": "El admin ve el consolidado en el inicio y en Prospectos",
+  "version": "0.1.26",
+  "versionCode": 26,
+  "fileName": "CRM-0.1.26.apk",
+  "notes": "Tocar un prospecto lo selecciona en el inicio para crearle proyectos y acciones",
   "publishedAt": "2026-08-04",
-  "sizeBytes": 66488594
+  "sizeBytes": 66489210
 }
