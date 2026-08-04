@@ -1,8 +1,8 @@
 {
-  "version": "0.1.24",
-  "versionCode": 24,
-  "fileName": "CRM-0.1.24.apk",
-  "notes": "Selector: proyecto activo o creado en el ultimo mes. Prospecto = potencial no creado en SIESA",
-  "publishedAt": "2026-08-03",
-  "sizeBytes": 66488566
+  "version": "0.1.25",
+  "versionCode": 25,
+  "fileName": "CRM-0.1.25.apk",
+  "notes": "El admin ve el consolidado en el inicio y en Prospectos",
+  "publishedAt": "2026-08-04",
+  "sizeBytes": 66488594
 }
