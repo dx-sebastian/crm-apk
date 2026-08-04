@@ -1,8 +1,8 @@
 {
-  "version": "0.1.27",
-  "versionCode": 27,
-  "fileName": "CRM-0.1.27.apk",
-  "notes": "Embudo semanal de prospeccion y aterrizar en el inicio al elegir prospecto",
+  "version": "0.1.28",
+  "versionCode": 28,
+  "fileName": "CRM-0.1.28.apk",
+  "notes": "La hoja de proyecto se sube con el teclado, incluido Crear proyecto",
   "publishedAt": "2026-08-04",
-  "sizeBytes": 66494814
+  "sizeBytes": 66494930
 }
